@@ -5,7 +5,7 @@ public class Calculadora {
 
     public Double cuadrado(Double numero) {
         // return numero * numero;
-        return 2;
+        return 2d;
     }
 
     public Double cubo(Double numero) {
